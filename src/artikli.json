@@ -1,0 +1,42 @@
+[
+    {
+        "ID":1,
+        "Naziv":"Asus GTX 1650 4GB",
+        "Proizvodac":"Asus",
+        "Model":"GTX1650",
+        "Cijena": "2247.00",
+        "Kolicina":1
+    },
+    {
+        "ID":2,
+        "Naziv":"Gigabyte RTX 3090 24GB",
+        "Proizvodac":"Gigabyte",
+        "Model":"RTX 3090",
+        "Cijena": "17424.00",
+        "Kolicina":0
+    },
+    {
+        "ID":3,
+        "Naziv":"MSI GeForce RTX 3060 12G",
+        "Proizvodac":"MSI",
+        "Model":"RTX 3060",
+        "Cijena": "4202.1",
+        "Kolicina":3
+    },
+    {
+        "ID":4,
+        "Naziv":"Radeon RX 6500",
+        "Proizvodac":"Radeon",
+        "Model":"RX 6500",
+        "Cijena": "2191.00",
+        "Kolicina":5
+    },
+    {
+        "ID":5,
+        "Naziv":"Zotac GTX 1660 6GB",
+        "Proizvodac":"Zotac",
+        "Model":"GTX 1660",
+        "Cijena": "3000.00",
+        "Kolicina":2
+    } 
+]
